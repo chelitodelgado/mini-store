@@ -12,10 +12,7 @@ Crear llaves
 php artisan key:generate
 ```
 
-Configurar .env nombre y usuario de la base de datos Mysql
-```
-
-Migrar base de datos
+Configurar archivo .env nombre y usuario de la base de datos Mysql e migrar base de datos
 ```
 
 php artisan migrate
